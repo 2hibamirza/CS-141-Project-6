@@ -1,0 +1,3 @@
+Number of nodes: 34
+Number of edges: 77
+Maximum degree: 17
